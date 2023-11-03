@@ -1,0 +1,3 @@
+[console_scripts]
+pypen = pypen.__main__:cli
+
